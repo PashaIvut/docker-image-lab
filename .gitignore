@@ -1,0 +1,12 @@
+﻿# Изображения для отчета
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Docker
+.dockerignore
+
+# Временные файлы
+*.tmp
+*.log
