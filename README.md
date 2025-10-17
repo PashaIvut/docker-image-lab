@@ -18,5 +18,8 @@
 
 **Оптимизированная установка пакетов:** Установка только необходимого пакета `curl` для healthcheck и удаление `requirements.txt` после установки зависимостей минимизирует размер образа и количество слоев.
 
+### Вывод docker history
+<img width="1367" height="800" alt="history" src="https://github.com/user-attachments/assets/af527b4d-1854-4cc1-b13f-2e7e6a85f8f7" />
+
 
 
