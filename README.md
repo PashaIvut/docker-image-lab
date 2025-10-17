@@ -1,5 +1,3 @@
-## Результат
-
 ## Отчет
 
 **Ссылка на образ:** [pavelivut/image-lab:03849046](https://hub.docker.com/r/pavelivut/image-lab/tags)
